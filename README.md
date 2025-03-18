@@ -1,6 +1,6 @@
 # SALES-PERFORMANCE
-This contains a dataset gotten from a car sales company with branches in six states in Nigeria
-The Objectives of this analysis is to perform 
+This contains a dataset gotten from a car sales company with branches in six states in Nigeria.
+The Objectives of this project is to perform the following analysis;
 
 BRANCH ANALYSIS: Analyze the performance of the branches. Identify areas with the highest sales volumes, compare sales performance across branches, and understand regional preferences or
 market trends
@@ -14,3 +14,4 @@ insights into the age, gender, and other relevant characteristics of our custome
 
 Sales Trend Analysis:Dive deep into our sales performance over the course of 2020. Identify trends in sales
 volume, uncover any seasonality effects, and pinpoint peak sales periods. 
+Tools used ; MICROSOFT EXCEL
